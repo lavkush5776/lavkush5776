@@ -11,7 +11,7 @@
 
 <h4 align="center"> I'm a 2nd year CSE student, Programmer and motivator</h4>
 <ul>
-  <li><p>Currently Pursuing <em>B.Tech from Lovely Professional university</em><li>
+  <li><p>Currently Pursuing <em><small>B.Tech from Lovely Professional university</small></em><li>
   
 </ul>
 
