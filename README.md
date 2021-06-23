@@ -11,11 +11,10 @@
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/632/PNG/128/graph-9_icon-icons.com_58019.png" width="20px"> Stats</h2>
 <p align="left">
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=lavkush5776&show_icons=true&theme=dark"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkush5776&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
     </p>
-<p> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkush5776&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
- </p>
- 
+
  
 
 <summary>:chart_with_upwards_trend: Contribution Graph </summary>
