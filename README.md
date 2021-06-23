@@ -17,7 +17,7 @@
 
  
 <p><strong>Note:</strong> This is only a matric of the languages my </br> public code on Github consists of and does not </br> reflect my expertise or skill level.</p>
-<summary>:chart_with_upwards_trend: Contribution Graph </summary>
+<h3><summary>:chart_with_upwards_trend: Contribution Graph </summary></h3>
    <br/>
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Lavkush Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lavkush5776&theme=react-dark" /></a>
 
