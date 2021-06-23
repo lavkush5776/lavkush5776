@@ -6,7 +6,9 @@
 
 <a id="raw-url" href="https://cutt.ly/8nNFahf"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
 
-<h2 align="center">Hello  I'm an Enthusiastic Learner from INDIA</h2></br></br><hr><hr>
+<h2 align="center">Hello  I'm an Enthusiastic Learner from INDIA</h2>
+<p></p>
+</br></br>
 
 <h4 align="center"> I'm a 2nd year CSE student, Programmer and motivator</h4>
 
