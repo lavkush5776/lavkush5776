@@ -9,7 +9,7 @@
 <h3>Hello</h3>
 
 <h2 align="left"><img src="https://cdn.icon-icons.com/icons2/632/PNG/128/graph-9_icon-icons.com_58019.png" width="40px"> My Github Stats</h2>
-<h3>github profile stats</h3>
+<h3>:chart_with_upwards_trend:github profile stats</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkush5776&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="left" width="40%" />
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=lavkush5776&show_icons=true&theme=dark"/>
