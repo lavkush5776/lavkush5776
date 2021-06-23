@@ -6,7 +6,7 @@
 
 <a id="raw-url" href="https://cutt.ly/8nNFahf"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
 
-<h2>Hello  I'm an Enthusiastic Learner from INDIA</h2></br></br>
+<h2 align="center">Hello  I'm an Enthusiastic Learner from INDIA</h2></br></br>
 
 <h2 align="left"><img src="https://cdn.icon-icons.com/icons2/632/PNG/128/graph-9_icon-icons.com_58019.png" width="40px"> My Github Stats</h2>
 <h3>:chart_with_upwards_trend:github profile stats</h3></br>
