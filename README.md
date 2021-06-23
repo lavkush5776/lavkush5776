@@ -8,6 +8,8 @@
 
 <h2 align="center">Hello  I'm an Enthusiastic Learner from INDIA</h2></br></br>
 
+<h4 align="center"> I'm a 2nd year CSE student, Programmer and motivator</h4>
+
 <h2 align="left"><img src="https://cdn.icon-icons.com/icons2/632/PNG/128/graph-9_icon-icons.com_58019.png" width="40px"> My Github Stats</h2>
 <h3>:chart_with_upwards_trend:github profile stats</h3></br>
 <p align="left">
