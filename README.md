@@ -12,7 +12,7 @@
 <p align="center">
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=lavkush5776&show_icons=true&theme=dark"/>
     
-  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=lavkush5776&theme=dark"/>
+ 
 </p>
 <p> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkush5776&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
