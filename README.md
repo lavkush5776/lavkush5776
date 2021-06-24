@@ -35,7 +35,7 @@
    <a href="https://www.codechef.com/users/imtechwiz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshyadav19" height="30" width="40" /></a>
    <a href="https://codeforces.com/profile/imran.techwiz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="h4sh_19" height="30" width="40" /></a>
    <a href="https://leetcode.com/user5492F/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="h4sh_19" height="30" width="40" /></a>
-   <a href="https://www.hackerearth.com/@imran.techwiz"  target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="h4sh_19" height="30" width="40" /></a>
+   <a href="https://www.hackerrank.com/lavkushyadav5776" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="h4sh_19" height="30" width="40" /></a>
 </p>
     
     
