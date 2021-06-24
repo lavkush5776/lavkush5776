@@ -1,10 +1,10 @@
 ### Hi there 👋
-<img src="https://github.com/ankitaggarwal23/ankitaggarwal23/blob/main/images/1584024060.gif" width="90%>
+
 
 <p align="center">
 <img src="https://github.com/lavkush5776/lavkush5776/blob/master/Content/Banner.gif/?username=lavkush5776">
 </p>    
-
+<img src="https://github.com/lavkush5776/lavkush5776/blob/main/images/1584024060.gif" width="90%>
 <a id="raw-url" href="https://cutt.ly/8nNFahf"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
 
 <h2 align="center">Hello  I'm an Enthusiastic Learner from INDIA</h2>
