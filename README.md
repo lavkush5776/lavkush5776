@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://github.com/ankitaggarwal23/ankitaggarwal23/blob/main/images/1584024060.gif" width="90%>
 
 <p align="center">
 <img src="https://github.com/lavkush5776/lavkush5776/blob/master/Content/Banner.gif">
